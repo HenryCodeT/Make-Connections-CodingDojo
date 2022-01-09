@@ -9,8 +9,9 @@ let count1 = 2,
     count2 = 418; 
 
 function changeName() {
-    console.log("hola");
-    let name = prompt("Escribe tu nombre")
+    // console.log("hola");
+    // let name = prompt("Escribe tu nombre")
+    let name = "Marissa"
     elementoChangeName.innerText = name
 }
 
